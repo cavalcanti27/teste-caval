@@ -1,0 +1,152 @@
+
+*{
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif; 
+}
+
+.navbar {
+    height: 44px;
+    width: 100%;
+    background-color: #333;
+
+}
+
+.subbar {
+    height: 44px;
+    width: 100%;
+    background-color: #FBFBFD;
+text-align: center;
+padding-top: 12px;
+}
+
+/* seçao1 */
+.anuncio1{
+   
+    text-align: center;
+    height: 580px;    
+    padding-top: 12px;
+    width: 100%;
+    background-image: url(./img/primeiraimg.jpg);
+    background-size: cover;
+    background-position-x: center;
+}
+.frase1{
+    font-size: 60px;
+    font-weight: 650px;
+    padding-top: 30px;
+}
+.frase2{
+
+    font-size: 30px; 
+    
+}
+
+
+
+/* seçao2 */
+.anuncio2{
+    text-align: center;
+    height: 580px;    
+    padding-top: 12px;
+    
+    height: 580px;
+    width: 100%;
+    background-image: url(./img/segundaimg.jpg);
+    background-size: cover;
+    background-position-x: center;
+}
+
+
+    .subbara{
+        
+        font-size: 60px;
+        font-weight: 650;
+        padding-top: 120;
+    }     
+.subbarb{
+    font-size: 60px;
+    font-weight: 650;
+    padding-top: 120;
+
+}
+
+/* seçao3 */
+.anuncio3{
+    height: 580px;
+    width: 100%;
+    background-image: url(./img/terceiraimg.jpg);
+    background-size: cover;   
+    background-position-x: center;
+}
+
+/* grid */
+
+.row {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+
+}
+
+.col {
+    height: 100%;
+
+    }
+    /* anuncio4 */
+.anuncio4{
+height: 580px;
+}
+.anuncio4a{
+background-image: url(./img/quartaAimg.jpg);
+background-size: cover;
+background-position-x: center;
+}
+.anuncio4b{
+    background-image: url(./img/quartaBimg.jpg);
+    background-size: cover;
+    background-position-x: center; 
+    
+}
+
+/* anuncio5 */
+
+.anuncio5{
+height: 580px;
+}
+.anuncio5a{
+
+    background-image: url(./img/quintaAimg.jpg);
+    background-size: cover;
+    background-position-x:center;
+
+
+
+}
+.anuncio5b{
+
+    background-image: url(./img/quintaBimg.jpg);
+    background-size: cover;
+    background-position-x:center;
+
+}
+/* anuncio6 */
+.anuncio6{
+height: 580px;
+}
+.anuncio6a{
+    background-image: url(./img/sextaAimg.jpg);
+    background-size: cover;
+    background-position-x:center;
+
+}  
+    .anuncio6b{
+        background-image: url(./img/sextaBimg.jpg);
+        background-size: cover;
+        background-position-x:center;
+    
+    
+}
+
+
+
+
+
